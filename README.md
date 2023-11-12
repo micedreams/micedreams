@@ -10,7 +10,9 @@ I code in Dart...I Flutter...
 
 I want to learn, grow, and build some awesome things...
 
-I really really want to solve real-world problems and make everybody happy...
+I really really want to solve real-world problems 
+(and not "so real" world problems like writing a [workflow that turns any repository into a Journal](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1))
+and make everybody happy...
 
 ![streak](https://github-readme-stats.vercel.app/api?username=micedreams&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats)
 
@@ -50,8 +52,6 @@ I really really want to solve real-world problems and make everybody happy...
   3. [How I turned my Set state Flutter project into BLoC pattern Flutter project](https://github.com/micedreams/tic-tac-toe#how-i-turned-my-set-state-flutter-project-into-bloc-pattern-flutter-project)
   4. [Drop down menu](https://gist.github.com/micedreams/ce00369de5992aa86827bc00cf518834)
 </details>
-
-
 
 
 [![Thanks](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting‼;Cheers‼&color=73daca&vCenter=true&height=15)](https://git.io/typing-svg)
