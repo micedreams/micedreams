@@ -12,7 +12,6 @@ I want to learn, grow, and build some awesome things...
 
 I really really want to solve real-world problems and make everybody happy...
 
-Ok... I want to also solve not "so real" world problems like writing a [workflow that turns any repository into a Journal](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1)
 
 <img src="https://github-readme-stats.vercel.app/api?username=micedreams&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats" width="46%" >
 
@@ -55,5 +54,7 @@ Ok... I want to also solve not "so real" world problems like writing a [workflow
 
 
 [![Thanks](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting‼;Cheers‼&color=73daca&vCenter=true&height=15)](https://git.io/typing-svg)
+
+P.S. I mostly only write to solve not "so real" world problems like wanting to turn a repository into a journal:  [workflow](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1)
 
 <img  src="https://komarev.com/ghpvc/?username=micedreams&color=34548a">  
