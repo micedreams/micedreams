@@ -14,8 +14,7 @@ I really really want to solve real-world problems and make everybody happy...
 
 Ok... I want to also solve not "so real" world problems like writing a [workflow that turns any repository into a Journal](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1)
 
-
-![streak](https://github-readme-stats.vercel.app/api?username=micedreams&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats)
+<img src="https://github-readme-stats.vercel.app/api?username=micedreams&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats" width="46%" >
 
 
 <img align='right' src="https://streak-stats.demolab.com/?user=micedreams&theme=tokyonight" width="38%" >
