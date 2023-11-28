@@ -55,6 +55,6 @@ I really really want to solve real-world problems and make everybody happy...
 
 [![Thanks](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting‼;Cheers‼&color=73daca&vCenter=true&height=15)](https://git.io/typing-svg)
 
-P.S. I mostly only write to solve not "so real" world problems like wanting to turn a repository into a journal:  [workflow](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1)
+P.S. I have mostly only written to solve not "so real" world problems like wanting to turn a repository into a journal:  [workflow](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1)
 
 <img  src="https://komarev.com/ghpvc/?username=micedreams&color=34548a">  
