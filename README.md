@@ -53,7 +53,7 @@ I really really want to solve real-world problems and make everybody happy...
 </details>
 
 
-[![Thanks](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting‼;Cheers‼&color=73daca&vCenter=true&height=15)](https://git.io/typing-svg)
+[![Thanks](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting‼;Cheers‼&color=73daca&vCenter=true&height=18)](https://git.io/typing-svg)
 
 P.S. I have mostly only written to solve not "so real" world problems like wanting to turn a repository into a journal:  [workflow](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1)
 
