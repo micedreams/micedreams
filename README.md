@@ -2,7 +2,7 @@
 
 [![Holopin](https://holopin.me/micedreams)](https://holopin.io/@micedreams)
 
-#### My name is [Akshatha](https://micedreams.github.io/CV/).
+#### My name is [Akshatha](https://github.com/micedreams/CV/).
 
 I code in Dart...I Flutter...
 
