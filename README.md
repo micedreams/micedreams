@@ -46,7 +46,8 @@ I really really want to solve real-world problems and make everybody happy...
 <details>
   <summary>⚡ and sometimes write how-to notes...</summary>
    
-  1. [How to integrate sqflite into a Flutter project.](https://github.com/micedreams/sqflite_demo#getting-started---how-to-integrate-sqflite-into-a-flutter-project)
+  1. [Multi future builder](https://gist.github.com/micedreams/18bacf73b5badbcfbe1767d2bccd1af5)
+  2. [How to integrate sqflite into a Flutter project.](https://github.com/micedreams/sqflite_demo#getting-started---how-to-integrate-sqflite-into-a-flutter-project)
      
   3. [How I turned my Set state Flutter project into BLoC pattern Flutter project](https://github.com/micedreams/tic-tac-toe#how-i-turned-my-set-state-flutter-project-into-bloc-pattern-flutter-project)
   4. [Drop down menu](https://gist.github.com/micedreams/ce00369de5992aa86827bc00cf518834)
