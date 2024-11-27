@@ -17,26 +17,28 @@ I really really want to solve real-world problems and make everybody happy...
 
 
 <img align='right' src="https://streak-stats.demolab.com/?user=micedreams&theme=tokyonight" width="38%" >
+<details>
+    <summary>🧙‍♀️🧛🏽‍♀️ I sometimes contribute to the open-source...</summary>
+ 
+1. <a href="https://github.com/SankethBK/diaryvault">Diary vault</a> - A FOSS and the first personal diary app focused on offline note-taking built with Flutter.<a href="https://play.google.com/store/apps/details?id=me.sankethbk.dairyapp">App-link</a>
 
-##### 🧙‍♀️🧛🏽‍♀️ I sometimes contribute to the open-source...
-<a href="https://github.com/SankethBK/diaryvault">Diary vault</a> - A FOSS and the first personal diary app focused on offline note-taking built with Flutter.<a href="https://play.google.com/store/apps/details?id=me.sankethbk.dairyapp">App-link</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a> 
+2. <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a> 
+</details>
 
 <details>
   <summary>⚡ and sometimes write how-to notes...</summary>
    
-  2. [How to integrate sqflite into a Flutter project.](https://github.com/micedreams/sqflite_demo#getting-started---how-to-integrate-sqflite-into-a-flutter-project)
+  1. [How to integrate sqflite into a Flutter project.](https://github.com/micedreams/sqflite_demo#getting-started---how-to-integrate-sqflite-into-a-flutter-project)
      
-  3. [How I turned my Set state Flutter project into BLoC pattern Flutter project](https://github.com/micedreams/tic-tac-toe#how-i-turned-my-set-state-flutter-project-into-bloc-pattern-flutter-project)
-  4. [Drop down menu](https://gist.github.com/micedreams/ce00369de5992aa86827bc00cf518834)
+  2. [How I turned my Set state Flutter project into BLoC pattern Flutter project](https://github.com/micedreams/tic-tac-toe#how-i-turned-my-set-state-flutter-project-into-bloc-pattern-flutter-project)
+  3. [Drop down menu](https://gist.github.com/micedreams/ce00369de5992aa86827bc00cf518834)
 </details>
 
-  <summary>⚡ and sometimes just class</summary>
+  <details><summary>⚡ and sometimes just class</summary>
    
    1. [Multi future builder](https://gist.github.com/micedreams/18bacf73b5badbcfbe1767d2bccd1af5)
 
-
+</details>
 
 
 
