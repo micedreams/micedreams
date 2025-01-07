@@ -1,6 +1,6 @@
 ### [Hello, you have found me!!](https://micedreams.github.io/) 
 
-[![Holopin](https://holopin.me/micedreams)](https://holopin.io/@micedreams)
+![Holopin](https://holopin.me/micedreams)
 
 #### My name is [Akshatha](https://github.com/micedreams/CV/).
 
@@ -42,7 +42,7 @@ I really really want to solve real-world problems and make everybody happy...
 
 
 
-[![Thanks](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting‼;Cheers‼&color=73daca&vCenter=true&height=18)](https://git.io/typing-svg)
+![Thanks](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting‼;Cheers‼&color=73daca&vCenter=true&height=19)
 
 P.S. I have mostly only written to solve not "so real" world problems like wanting to turn a repository into a journal:  [workflow](https://gist.github.com/micedreams/d2452ab96255da983e9527b361e46bc1)
 
